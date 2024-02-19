@@ -1,0 +1,50 @@
+.ssingleBox {
+  height: 100px;
+  width: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid;
+  cursor: pointer;
+  font-size: 50px;
+}
+/* 
+.swinnerBox {
+  background-color: rgb(139, 139, 243);
+} */
+
+
+ 
+
+
+#sbox0 {
+  border-left: 0;
+  border-top: 0;
+  
+}
+#sbox1 {
+  border-top: 0;
+}
+#sbox2 {
+  border-top: 0;
+  border-right: 0;
+}
+#sbox3 {
+  border-left: 0;
+}
+
+#sbox5 {
+  
+ border-right: 0;
+}
+#sbox6  {
+  border-bottom: 0;
+  border-left: 0;
+}
+#sbox7 {
+  border-bottom: 0;
+}
+#sbox8 {
+  border-bottom: 0;
+  border-right: 0;
+}

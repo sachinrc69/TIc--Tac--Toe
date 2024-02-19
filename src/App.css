@@ -1,0 +1,23 @@
+p{
+    font-size: 100px;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+}
+body{
+    background: linear-gradient(
+        #403b4a
+        ,
+        #e7e9bb);
+}
+
+.appContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}

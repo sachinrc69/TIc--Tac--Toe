@@ -1,0 +1,50 @@
+.singleBox {
+  height: 100px;
+  width: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid;
+  cursor: pointer;
+  font-size: 50px;
+}
+
+/* .winnerBox {
+  background-color: rgb(139, 139, 243);
+} */
+
+
+ 
+
+
+#box0 {
+  border-left: 0;
+  border-top: 0;
+  
+}
+#box1 {
+  border-top: 0;
+}
+#box2 {
+  border-top: 0;
+  border-right: 0;
+}
+#box3 {
+  border-left: 0;
+}
+
+#box5 {
+  
+ border-right: 0;
+}
+#box6  {
+  border-bottom: 0;
+  border-left: 0;
+}
+#box7 {
+  border-bottom: 0;
+}
+#box8 {
+  border-bottom: 0;
+  border-right: 0;
+}
